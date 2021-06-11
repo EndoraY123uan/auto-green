@@ -1,6 +1,6 @@
 # auto-green
 
-[![Build Status](https://github.com/LiangLliu/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/LiangLliu/auto-green/actions)
+[![Build Status](https://github.com/EndoraY123uan/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/EndoraY123uan/auto-green/actions)
 
 自动保持 GitHub 提交状态常绿。
 
@@ -15,8 +15,8 @@
 ## 使用
 
 - 点右上角 **Use this template** 按钮复制本 GitHub 仓库，**:warning: 千万不要 Fork，因为 fork 项目的动态并不会让你变绿 :warning:**
-- 修改 [ci.yml 文件的第 19、20 行](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L19) 为自己的 GitHub 账号和昵称
-- (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L8)来调整频率
+- 修改 [ci.yml 文件的第 19、20 行](https://github.com/EndoraY123uan/auto-green/blob/master/.github/workflows/ci.yml#L19) 为自己的 GitHub 账号和昵称
+- (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/EndoraY123uan/auto-green/blob/master/.github/workflows/ci.yml#L8)来调整频率
 
 计划任务语法有 5 个字段，中间用空格分隔，每个字段代表一个时间单位。
 
@@ -45,4 +45,4 @@
 
 ## License 
 
-[auto-green](https://github.com/LiangLliu/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[auto-green](https://github.com/EndoraY123uan/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
